@@ -1,8 +1,8 @@
 # UX Research & Discovery
 
-**Plan, run, and synthesize user research that actually moves product decisions.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For UX researchers: interviews, surveys, and usability tests that change what ships.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-A end-to-end toolkit for UX researchers and product designers — from writing unbiased interview guides and surveys to extracting JTBD insights, planning usability tests, and delivering crisp stakeholder readouts. Each skill encodes opinionated, senior-researcher defaults with explicit escape hatches for edge cases.
+Reach for this when you own a research question end to end and need the output to actually move a product decision — not sit in a deck nobody acts on. It carries you from study design (non-leading interview guides, unbiased surveys, defensible usability test plans) through synthesis (themes, Jobs To Be Done, evidence-based personas) to a stakeholder readout that leads with the "so what" and a confidence level. Every skill encodes senior-researcher defaults — bias traps caught before fielding, insights tied to participant counts, recommendations specific enough to disagree with.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
@@ -15,13 +15,12 @@ A end-to-end toolkit for UX researchers and product designers — from writing u
 ## Skills in this pack
 
 - **[Interview Guide Builder](skills/interview-guide-builder/SKILL.md)** — Writes a user-interview discussion guide with non-leading, open questions.
-- **[Interview Synthesis](skills/interview-synthesis/SKILL.md)** — Synthesizes interview notes into themes, insights, and supporting quotes.
 - **[Survey Designer](skills/survey-designer/SKILL.md)** — Designs unbiased surveys — question types, scales, and avoiding leading or loaded items.
-- **[JTBD Extractor](skills/jtbd-extractor/SKILL.md)** — Extracts Jobs To Be Done — job stories, hiring/firing forces, and functional/emotional/social dimensions — from research data.
 - **[Usability Test Plan](skills/usability-test-plan/SKILL.md)** — Plans a usability test — tasks, success criteria, metrics, and recruiting requirements.
-- **[Research Readout](skills/research-readout/SKILL.md)** — Turns research findings into a crisp stakeholder readout with recommendations and confidence levels.
+- **[Interview Synthesis](skills/interview-synthesis/SKILL.md)** — Synthesizes interview notes into themes, insights, and supporting quotes.
+- **[JTBD Extractor](skills/jtbd-extractor/SKILL.md)** — Extracts Jobs To Be Done — job stories, hiring/firing forces, and functional/emotional/social dimensions — from research data.
 - **[User Persona Builder](skills/user-persona/SKILL.md)** — Synthesizes research into personas with goals, frustrations, behaviors, and quotes.
-- **[User Flow Mapper](skills/user-flow-mapper/SKILL.md)** — Maps complete user flows — happy path, error states, edge cases, and re-engagement.
+- **[Research Readout](skills/research-readout/SKILL.md)** — Turns research findings into a crisp stakeholder readout with recommendations and confidence levels.
 
 ## License
 
