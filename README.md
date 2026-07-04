@@ -14,13 +14,13 @@ Reach for this when you own a research question end to end and need the output t
 
 ## Skills in this pack
 
-- **[Interview Guide Builder](skills/interview-guide-builder/SKILL.md)** — Writes a user-interview discussion guide with non-leading, open questions.
-- **[Survey Designer](skills/survey-designer/SKILL.md)** — Designs unbiased surveys — question types, scales, and avoiding leading or loaded items.
-- **[Usability Test Plan](skills/usability-test-plan/SKILL.md)** — Plans a usability test — tasks, success criteria, metrics, and recruiting requirements.
-- **[Interview Synthesis](skills/interview-synthesis/SKILL.md)** — Synthesizes interview notes into themes, insights, and supporting quotes.
-- **[JTBD Extractor](skills/jtbd-extractor/SKILL.md)** — Extracts Jobs To Be Done — job stories, hiring/firing forces, and functional/emotional/social dimensions — from research data.
-- **[User Persona Builder](skills/user-persona/SKILL.md)** — Synthesizes research into personas with goals, frustrations, behaviors, and quotes.
-- **[Research Readout](skills/research-readout/SKILL.md)** — Turns research findings into a crisp stakeholder readout with recommendations and confidence levels.
+- **[Interview Guide Builder](skills/interview-guide-builder/SKILL.md)** — Writes a non-leading user-research discussion guide with warm-up flow, open core questions, an attached probe bank, time budgets, and a pre-field bias audit.
+- **[Survey Designer](skills/survey-designer/SKILL.md)** — Designs unbiased surveys — question types, Likert and frequency scales, screener-to-demographics flow, and a cognitive pilot plan — that produce trustworthy quantitative data.
+- **[Usability Test Plan](skills/usability-test-plan/SKILL.md)** — Plans a usability study — research questions, realistic task scenarios with success criteria, metrics (completion rate, time on task, SEQ, SUS), a recruiting screener, and moderated vs.
+- **[Interview Synthesis](skills/interview-synthesis/SKILL.md)** — Turns raw interview notes into themed, evidence-tagged insights via a two-pass affinity-mapping procedure, with frequency and confidence ratings and stakeholder-ready quotes.
+- **[JTBD Extractor](skills/jtbd-extractor/SKILL.md)** — Extracts Jobs To Be Done from qualitative research data — job stories in the "When I…, I want to…, so I can…" form, a forces-of-progress map (push, pull, anxiety, habit), and functional, emotional, and social dimensions, each backed by verbatim quotes.
+- **[User Persona Builder](skills/user-persona/SKILL.md)** — Synthesizes interview notes, surveys, support tickets, and analytics into evidence-based user personas that drive design decisions, with every claim traced to source data.
+- **[Research Readout](skills/research-readout/SKILL.md)** — Turns synthesized research findings into a crisp stakeholder readout — so-what up front, 3-5 confidence-tagged findings each following the finding-evidence-implication rule, and owned recommendations.
 
 ## License
 
