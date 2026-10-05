@@ -1,16 +1,17 @@
 # UX Research & Discovery
 
-**For UX researchers: interviews, surveys, and usability tests that change what ships.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For UX researchers: interviews, surveys, and usability tests that change what ships.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-ux-research-discovery).
 
 Reach for this when you own a research question end to end and need the output to actually move a product decision - not sit in a deck nobody acts on. It carries you from study design (non-leading interview guides, unbiased surveys, defensible usability test plans) through synthesis (themes, Jobs To Be Done, evidence-based personas) to a stakeholder readout that leads with the "so what" and a confidence level. Every skill encodes senior-researcher defaults - bias traps caught before fielding, insights tied to participant counts, recommendations specific enough to disagree with.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/ux-research-discovery](https://skillme.dev/pack/ux-research-discovery) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/ux-research-discovery?utm_source=github&utm_medium=readme&utm_campaign=pack-ux-research-discovery) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add interview-guide-builder survey-designer usability-test-plan interview-synthesis jtbd-extractor user-persona research-readout --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/ux-research-discovery`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -25,4 +26,4 @@ Reach for this when you own a research question end to end and need the output t
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-ux-research-discovery).
